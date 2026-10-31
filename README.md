@@ -64,5 +64,137 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-live-football-api-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://live-football-api.com/
+Live Football API provides real-time football scores, lineups, standings and statistics for over 1,400 leagues including Premier League, La Liga, and Champions League. Offered by FORCESCRIPTS LTD, a UK-registered software company delivering sports data. Developers can access up-to-date match information, player stats, and league tables, with a free trial and plans starting at $9.99.
+
+**Areas:** API · Sports · Football · Real-time · Data
+
+## live-football-api-com on APIs.io
+
+Everything profiled for live-football-api-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/live-football-api-com/](https://apis.io/providers/live-football-api-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [Live Football API](https://apis.io/apis/live-football-api-com/live-football-api/) — Real-time football scores, lineups, standings and statistics via a simple REST API.
+- [live-football-api-com API](https://apis.io/apis/live-football-api-com/live-football-api-com-api/) — live-football-api-com API as documented publicly: 68 operations. Contract generated from the documentation by API Evangelist (2026-10-30); not the…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [GetApiV1TeamMatchesResponse](https://apis.io/schemas/live-football-api-com/live-football-api-com-get-api-v1-team-matches-response/)
+- [GetH2HResponse](https://apis.io/schemas/live-football-api-com/live-football-api-com-get-h2-hresponse/)
+- [GetInjuriesResponse](https://apis.io/schemas/live-football-api-com/live-football-api-com-get-injuries-response/)
+- [GetPlayerDetailsResponse](https://apis.io/schemas/live-football-api-com/live-football-api-com-get-player-details-response/)
+- [GetWidgetSessionPhpResponse](https://apis.io/schemas/live-football-api-com/live-football-api-com-get-widget-session-php-response/)
+- [PostWebhookRegisterRequest](https://apis.io/schemas/live-football-api-com/live-football-api-com-post-webhook-register-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Live Football Api Com Context](https://apis.io/jsonld/live-football-api-com/live-football-api-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [live-football-api-com API Rules](https://apis.io/rules/live-football-api-com/live-football-api-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Live Football Api Com Authentication](https://apis.io/security/live-football-api-com/live-football-api-com-authentication/)
+- [Live Football Api Com Domain Security](https://apis.io/security/live-football-api-com/live-football-api-com-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Live Football Api Com Scopes](https://apis.io/scopes/live-football-api-com/live-football-api-com-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Live Football Api Com Plans Pricing](https://apis.io/plans/live-football-api-com/live-football-api-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Live Football Api Com Rate Limits](https://apis.io/rate-limits/live-football-api-com/live-football-api-com-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.live-football-api.com/)
+- [Documentation](https://www.live-football-api.com/docs)
+- [Getting started](https://www.live-football-api.com/docs#quickstart)
+- [API reference](https://www.live-football-api.com/docs)
+- [Pricing](https://www.live-football-api.com/pricing)
+- [Support](https://www.live-football-api.com/contact)
+- [Blog](https://www.live-football-api.com/blog)
+- [Terms of service](https://www.live-football-api.com/terms)
+- [Privacy policy](https://live-football-api.com/)
+- [Status](https://status.live-football-api.com/)
+
+## API Evangelist rating
+
+**Kin Score 60.8** — strong · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 45.6 |
+| Contract governance | 79.1 |
+| Operational transparency | 44.2 |
+| Developer ergonomics | 54.8 |
+| Access clarity | 73.2 |
+
+**Agent readiness 40.2** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | documented (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 34.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/live-football-api-com/](https://apis.io/providers/live-football-api-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for live-football-api-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/live-football-api-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
